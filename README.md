@@ -1,0 +1,2 @@
+# terdistribusi
+tugas
